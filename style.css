@@ -1,0 +1,8 @@
+.slide:after {
+    background: none;
+    display: none;
+}
+    
+#1 a:link {
+    text-decoration: none;
+}
